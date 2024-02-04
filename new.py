@@ -1,2 +1,2 @@
 if code=='right':
-    print('this is working')
+    print('this is fine')
