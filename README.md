@@ -1,2 +1,3 @@
 # New_Project
-This project is related with git concepts
+This project is related to git concepts
+These are new changes
